@@ -1,6 +1,3 @@
-import 'package:cable_testing/app/basic_test/basic_test.dart';
-import 'package:cable_testing/app/choice_page/choice_page.dart';
-import 'package:cable_testing/app/comp_test/comp_test.dart';
 import 'package:cable_testing/app/login_page/login_page.dart';
 import 'package:flutter/material.dart';
 
